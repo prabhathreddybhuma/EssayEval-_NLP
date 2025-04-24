@@ -1,4 +1,4 @@
-# EssayEval+ — Hybrid AI-Based Automated Essay Scoring System
+# EssayEval+ — Hybrid AI-Based Automated Essay Scorer
 
 A sophisticated essay scoring system that combines traditional NLP-based scoring with Google's Gemini API for comprehensive evaluation and feedback.
 
