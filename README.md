@@ -69,9 +69,7 @@ The system uses a hybrid approach:
 2. Score refinement and feedback generation using Google's Gemini API
 3. Final score and detailed feedback presentation
 
-## License
 
-MIT License
 
 ## Contributing
 
